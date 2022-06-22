@@ -115,7 +115,22 @@ body{
     height: 100%;
     background: darkmagenta;
 }
+.contactInfo.skills .percent{
+    position: relative;
+    width: 100%;
+    height: 6px;
+    background: black;
+    display: block;
+    margin-top: 5px;
+}
 
+.contactInfo.skills .percent div{
+    position: absolute;
+    top:0;
+    left:0;
+    height: 100%;
+    background: darkmagenta;
+}
 
 .container .right-side{
     position: relative;
